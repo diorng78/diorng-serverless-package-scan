@@ -1,4 +1,4 @@
-# Scanning serverless code with Snyk and NPM Audit
+# Scanning serverless code with Snyk & NPM Audit
 
 ## What is package vulnerability scan?
 
