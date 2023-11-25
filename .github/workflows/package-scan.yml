@@ -121,8 +121,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Pause 2min to verify lambda creation and test
-        run: sleep 120
+      - name: Pause 15min to verify lambda creation and test
+        run: sleep 900
 
   terraform-destroy:
     needs: terraform-wait
